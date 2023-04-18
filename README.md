@@ -18,6 +18,7 @@ The following commands are executed in the terminal.
 2. (Optional) Set up a Python virtual environment. Once Python 3 is installed in your environment, you can activate the virtual environment with the instructions found [here](https://docs.python.org/3/tutorial/venv.html). 
 
     2a. Create virutal environment example
+    
         $ python3 -m venv BaseTemplatePortalv1
         $ source BaseTemplatePortalv1/bin/activate
 
