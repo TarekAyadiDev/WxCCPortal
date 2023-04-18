@@ -31,9 +31,9 @@ The following commands are executed in the terminal.
         $ git clone https://github.com/teakay101/WxCCPortal.git
 
 
-4. Access the folder `BaseTemplateWxCCPortal`
+4. Access the folder `WxCCPortal`
 
-        $ cd BaseTemplateWxCCPortal
+        $ cd WxCCPortal
 
 5. Install the dependencies:
 
