@@ -17,11 +17,11 @@ The following commands are executed in the terminal.
 
 2. (Optional) Set up a Python virtual environment. Once Python 3 is installed in your environment, you can activate the virtual environment with the instructions found [here](https://docs.python.org/3/tutorial/venv.html). 
 
-example:
-python3 -m venv BaseTemplatePortalv1
-source BaseTemplatePortalv1/bin/activate
+    2a. Create virutal environment example
+        $ python3 -m venv BaseTemplatePortalv1
+        $ source BaseTemplatePortalv1/bin/activate
 
-    2a. Access the created virtual environment folder
+    2b. Access the created virtual environment folder
 
         $ cd BaseTemplatePortalv1
 
@@ -63,7 +63,9 @@ source BaseTemplatePortalv1/bin/activate
 
 # Screenshots
 
-![/IMAGES/0image.png](/IMAGES/0image.png)
+Once you submit a request, you get a confirmation of the changes made to the Contact Center branch
+
+![/IMAGES/0image.png](/IMAGES/SubmittedClosure.png)
 
 ### LICENSE
 
