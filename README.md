@@ -52,7 +52,7 @@ The following commands are executed in the terminal.
 
 4. Once ngrok is setup, type the following command within your terminal:
 
-        $ ngrok http 5020
+        $ ngrok http 5002
 
 5. You should see something similar to the following in your terminal, use the forwarding URL/status `url/status` within your Webex CC flow designer to access the service status (GET requests only).
 
