@@ -31,7 +31,7 @@ The following commands are executed in the terminal.
         $ git clone https://github.com/teakay101/WxCCPortal.git
 
 
-4. Access the folder `BaseTemplateWxCCPortal`
+4. Access the folder `WxCCPortal`
 
         $ cd BaseTemplateWxCCPortal
 
@@ -44,7 +44,7 @@ The following commands are executed in the terminal.
 
         $ python3 main.py
 
-2. To access the app, navigate in a browser to `localhost:5020`. The GUI will look like the following and allow to determine the service information: 
+2. To access the app, navigate in a browser to `localhost:5002`. The GUI will look like the following and allow to determine the service information: 
 
 ![/IMAGES/GUI.png](/IMAGES/GUI.png)
 
