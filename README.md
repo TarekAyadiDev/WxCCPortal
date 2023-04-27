@@ -33,7 +33,7 @@ The following commands are executed in the terminal.
 
 4. Access the folder `WxCCPortal`
 
-        $ cd BaseTemplateWxCCPortal
+        $ cd WxCCPortal
 
 5. Install the dependencies:
 
