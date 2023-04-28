@@ -26,13 +26,20 @@ The following commands are executed in the terminal.
 
         $ cd BaseTemplatePortalv1
 
-3. Clone this repository
+3. Clone the repository
+
+    3a. MAC
 
         $ git clone https://github.com/teakay101/WxCCPortal.git
+        
+    3b. Windows
 
-For Windows users, you can download the Git bash from here : https://git-scm.com/downloads
+You can download the Git bash from here : https://git-scm.com/downloads 
+Use the following command : 
 
-If required, use the access token available on the sharepoint.
+        $ git clone https://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@github.com/TarekAyadiDev/WxCCPortal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
+
+If required, use the access token (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) to authenticate.
 
 4. Access the folder `WxCCPortal`
 
