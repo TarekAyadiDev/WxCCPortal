@@ -30,6 +30,7 @@ The following commands are executed in the terminal.
 
         $ git clone https://github.com/teakay101/WxCCPortal.git
 
+Use the access token available on the sharepoint.
 
 4. Access the folder `WxCCPortal`
 
