@@ -31,6 +31,8 @@ The following commands are executed in the terminal.
     3a. MAC
 
         $ git clone https://github.com/teakay101/WxCCPortal.git
+        USername: teakay101
+        Pwd: TOKEN (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)
         
     3b. Windows
 
