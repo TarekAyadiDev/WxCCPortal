@@ -1,5 +1,7 @@
 # Webex CC supervisor portal
 
+This portal is an example of how you can enable a supervisor (from the Extended Supervisor Desktop), or a business representative from the web, to manage contact center branch opening hours, closing/alerting message, transfer etc, in a simple manner, without having to connect to the contact center administration portal or changing the call flow.
+
 ## Contacts
 * Ayadi Tarek
 
